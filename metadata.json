@@ -1,0 +1,6 @@
+{
+  "name": "AUTOCARE — Премиальный автосервис",
+  "description": "Современный автосервис и технический центр: профессиональная диагностика, регламентное ТО, шиномонтаж, ремонт узлов и детейлинг с гарантией качества.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
